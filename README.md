@@ -75,3 +75,7 @@ e.access_objects=[{
 return .......
 ```
 3. 启动Termius，登录账号，重启Termius
+
+### notice
+
+未修改前的JavaScript文件格式是经过普通压缩的，即看起来一大坨；win环境下，格式化修改后可能会导致程序异常，建议改完代码后再压缩回去。
